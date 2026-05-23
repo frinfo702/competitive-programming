@@ -20,3 +20,5 @@ Thumbs.db
 
 *.out*
 *.class
+
+.claude/
